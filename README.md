@@ -7,3 +7,7 @@ The project also left some interesting problems to explore. For example, stress 
 
 ## Data
 Schmidt, Philip, Attila Reiss, Robert Duerichen, Claus Marberger, and Kristof Van Laerhoven. “Introducing WESAD, a Multimodal Dataset for Wearable Stress and Affect Detection.” Proceedings of the 2018 on International Conference on Multimodal Interaction - ICMI 18, 2018. https://doi.org/10.1145/3242969.3242985.
+
+## Reference
+- The DBDP ML-Methods, https://github.com/DigitalBiomarkerDiscoveryPipeline/ML-Methods
+- “Step-by-Step Guide to leave-one-person-out Cross Validation with Random Forests in Python”, https://medium.com/analytics-vidhya/step-by-step-guide-to-leave-one-person-out-cross-validation-with-random-forests-in-python-34b2eaefb628
